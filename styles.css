@@ -205,3 +205,19 @@
 #contact a:hover, a:active {
     background-color: #7A8FA9;
 }
+#contact {
+ width:465px;
+ border:1px solid red;
+}
+
+#contact {
+ margin: 0 auto;
+ border:1px solid blue;
+ padding:5px 0;
+}
+
+#contact li {
+ display:inline;
+ list-style-type:none;
+ margin:2;
+}
